@@ -1,0 +1,23 @@
+{
+  "name": "pf2-edsdr",
+  "title": "Pathfinder 2 : L'éveil des seigneurs des runes",
+  "description": "<p>Six aventures mortelles pour une campagne de légende</p>\n<p>Le mal s’agite en la paisible ville côtière de Pointesable. Des gobelins déments passent à l’attaque et l’ombre d’un passé oublié s’étend sur la petite bourgade… et peut-être sur toute la Varisie.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "pf2e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "assets/fantasy/backgrounds/pf_bg_1.jpg",
+  "coreVersion": "0.8.9",
+  "nextSession": "2021-10-16T13:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "2.17.0.8553"
+}
