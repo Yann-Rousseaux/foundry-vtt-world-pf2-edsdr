@@ -1,3 +1,12 @@
 {"name":"POINTESABLE","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"WjJe7QxMbpfDvJAh"}
 {"name":"Pointesable, plan","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"NcoEaCnbsgIGBGyW"}
 {"$$deleted":true,"_id":"NcoEaCnbsgIGBGyW"}
+{"name":"ANDORAN","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Yx43Lfm3jbI5PjSC"}
+{"_id":"Yx43Lfm3jbI5PjSC","name":"ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"8VguvWHJKa23oDWr"}
+{"_id":"8VguvWHJKa23oDWr","name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE","type":"JournalEntry","parent":null,"sorting":"a","sort":150000,"color":null,"flags":{}}
+{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"8VguvWHJKa23oDWr","name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"","flags":{}}
+{"_id":"8VguvWHJKa23oDWr","name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#969696","flags":{}}
+{"_id":"Yx43Lfm3jbI5PjSC","name":"ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"color":"#969696","flags":{}}
