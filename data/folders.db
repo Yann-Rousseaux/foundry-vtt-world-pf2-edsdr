@@ -1,12 +1,8 @@
-{"name":"POINTESABLE","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"WjJe7QxMbpfDvJAh"}
-{"name":"Pointesable, plan","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"NcoEaCnbsgIGBGyW"}
-{"$$deleted":true,"_id":"NcoEaCnbsgIGBGyW"}
-{"name":"ANDORAN","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Yx43Lfm3jbI5PjSC"}
-{"_id":"Yx43Lfm3jbI5PjSC","name":"ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
-{"name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"8VguvWHJKa23oDWr"}
-{"_id":"8VguvWHJKa23oDWr","name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
-{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE","type":"JournalEntry","parent":null,"sorting":"a","sort":150000,"color":null,"flags":{}}
-{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":null,"flags":{}}
-{"_id":"8VguvWHJKa23oDWr","name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"","flags":{}}
+{"name":"VARISIE","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"2s5XCkZNGberV17X"}
 {"_id":"8VguvWHJKa23oDWr","name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#969696","flags":{}}
+{"name":"ANDORAN","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"9eql0Nnq8uBEZWIo"}
+{"name":"NID-DU-FAUCON","type":"JournalEntry","parent":"Yx43Lfm3jbI5PjSC","sorting":"a","sort":0,"color":null,"flags":{},"_id":"I3r5oNrdgoVP95NX"}
+{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"_id":"Yx43Lfm3jbI5PjSC","name":"ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"color":"#969696","flags":{}}
+{"name":"PJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"zw71DLhRGtNCpl8C"}
+{"name":"Consortium du Bois","type":"JournalEntry","parent":"I3r5oNrdgoVP95NX","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zIWFDdqYt8orPzjo"}
