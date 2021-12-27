@@ -1,44 +1,19 @@
 {"name":"VARISIE","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"2s5XCkZNGberV17X"}
 {"_id":"8VguvWHJKa23oDWr","name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#969696","flags":{}}
 {"name":"ANDORAN","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"9eql0Nnq8uBEZWIo"}
-{"_id":"DfztXt2vKFiYsSuB","name":"Auberges et Tavernes","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"DfztXt2vKFiYsSuB","name":"Auberges et Tavernes","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"name":"Pointesable","type":"Scene","parent":"2s5XCkZNGberV17X","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EyBfse2q8lYOUttj"}
-{"_id":"G4t7KeLgm6k6pN2o","name":"Commerces","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{}}
-{"name":"NID-DU-FAUCON","type":"JournalEntry","parent":"Yx43Lfm3jbI5PjSC","sorting":"a","sort":0,"color":null,"flags":{},"_id":"I3r5oNrdgoVP95NX"}
-{"name":"Fabriques","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IXK7SDd1AFRaWOju"}
+{"_id":"G4t7KeLgm6k6pN2o","name":"Commerces","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"GLAwlIhTPm0Jc6td","name":"POINTESABLE, POPULATION","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":0,"color":"#7e9cce","flags":{}}
+{"_id":"I3r5oNrdgoVP95NX","name":"NID-DU-FAUCON","type":"JournalEntry","parent":"Yx43Lfm3jbI5PjSC","sorting":"a","sort":0,"color":"#7e9cce","flags":{}}
+{"_id":"IXK7SDd1AFRaWOju","name":"Fabriques","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":300000,"color":null,"flags":{}}
 {"name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"QMXB7niqu0UY27se"}
-{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":"#7e9cce","flags":{}}
-{"name":"Lieux divers","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"XaCmL6PUOoAYD5AH"}
+{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE, GEOGRAPHIE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":"#7e9cce","flags":{}}
 {"_id":"Yx43Lfm3jbI5PjSC","name":"ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"color":"#969696","flags":{}}
-{"name":"PNJ","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"btYdZULGqdbR529O"}
+{"_id":"hz7oEfWjUrMsYsdt","name":"Divers","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":"","flags":{}}
 {"name":"PNJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"s0GxnUG0CAfn14p4"}
-{"name":"Habitations","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"vSP4aXZaedti0mWC"}
+{"_id":"tcEVq0ipXLhaSKS2","name":"Alentours","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"vSP4aXZaedti0mWC","name":"Habitations","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":400000,"color":null,"flags":{}}
 {"name":"DIVINITES","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"wQwKEqnyebx4TsRa"}
 {"name":"Consortium du Bois","type":"JournalEntry","parent":"I3r5oNrdgoVP95NX","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zIWFDdqYt8orPzjo"}
 {"name":"PJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"zw71DLhRGtNCpl8C"}
-{"name":"LIEUX","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zoJ5iwQ6IDPAcHjt"}
-{"_id":"DfztXt2vKFiYsSuB","name":"Auberges et Tavernes","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":100000,"color":null,"flags":{}}
-{"_id":"G4t7KeLgm6k6pN2o","name":"Commerces","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":200000,"color":null,"flags":{}}
-{"_id":"IXK7SDd1AFRaWOju","name":"Fabriques","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":300000,"color":null,"flags":{}}
-{"_id":"vSP4aXZaedti0mWC","name":"Habitations","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":400000,"color":null,"flags":{}}
-{"_id":"btYdZULGqdbR529O","name":"PNJ","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":500000,"color":null,"flags":{}}
-{"_id":"XaCmL6PUOoAYD5AH","name":"Lieux divers","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":600000,"color":null,"flags":{}}
-{"_id":"zoJ5iwQ6IDPAcHjt","name":"LIEUX","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":700000,"color":null,"flags":{}}
-{"$$deleted":true,"_id":"zoJ5iwQ6IDPAcHjt"}
-{"name":"LIEUX","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hz7oEfWjUrMsYsdt"}
-{"$$deleted":true,"_id":"XaCmL6PUOoAYD5AH"}
-{"name":"POINTESABLE, PNJ","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":0,"color":null,"flags":{},"_id":"GLAwlIhTPm0Jc6td"}
-{"_id":"btYdZULGqdbR529O","name":"PNJ","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":-100000,"color":null,"flags":{}}
-{"_id":"btYdZULGqdbR529O","name":"PNJ","type":"JournalEntry","parent":"GLAwlIhTPm0Jc6td","sorting":"a","sort":100000,"color":null,"flags":{}}
-{"$$deleted":true,"_id":"btYdZULGqdbR529O"}
-{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE, LIEUX","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":"#7e9cce","flags":{}}
-{"_id":"hz7oEfWjUrMsYsdt","name":"Divers","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":"","flags":{}}
-{"_id":"GLAwlIhTPm0Jc6td","name":"POINTESABLE, PNJ","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":0,"color":"#7ece19","flags":{}}
-{"_id":"GLAwlIhTPm0Jc6td","name":"POINTESABLE, PNJ","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":0,"color":"#7e9cce","flags":{}}
-{"name":"Arrière-Pays","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"tcEVq0ipXLhaSKS2"}
-{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE, GEOGRAPHIE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":"#7e9cce","flags":{}}
-{"_id":"GLAwlIhTPm0Jc6td","name":"POINTESABLE, POPULATION","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":0,"color":"#7e9cce","flags":{}}
-{"_id":"tcEVq0ipXLhaSKS2","name":"Alentours","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":"","flags":{}}
-{"name":"Pointesable, alentours","type":"Scene","parent":"EyBfse2q8lYOUttj","sorting":"a","sort":0,"color":null,"flags":{},"_id":"N2V3dBckXOi4u1tQ"}
-{"$$deleted":true,"_id":"N2V3dBckXOi4u1tQ"}
-{"_id":"I3r5oNrdgoVP95NX","name":"NID-DU-FAUCON","type":"JournalEntry","parent":"Yx43Lfm3jbI5PjSC","sorting":"a","sort":0,"color":"#7e9cce","flags":{}}
