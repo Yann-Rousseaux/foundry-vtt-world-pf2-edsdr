@@ -17,3 +17,13 @@
 {"name":"DIVINITES","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"wQwKEqnyebx4TsRa"}
 {"name":"Consortium du Bois","type":"JournalEntry","parent":"I3r5oNrdgoVP95NX","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zIWFDdqYt8orPzjo"}
 {"name":"PJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"zw71DLhRGtNCpl8C"}
+{"_id":"Yx43Lfm3jbI5PjSC","name":"ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":-100000,"color":"#969696","flags":{}}
+{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-200000,"color":null,"flags":{}}
+{"_id":"Yx43Lfm3jbI5PjSC","name":"ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":-100000,"color":"#4b67aa","flags":{}}
+{"_id":"8VguvWHJKa23oDWr","name":"VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#4b67aa","flags":{}}
+{"_id":"wQwKEqnyebx4TsRa","name":"DIVINITES","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#4b67aa","flags":{}}
+{"_id":"wQwKEqnyebx4TsRa","name":"DIVINITES","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#6780bc","flags":{}}
+{"_id":"wQwKEqnyebx4TsRa","name":"DIVINITES","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#3d548a","flags":{}}
+{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-200000,"color":"#9ca522","flags":{}}
+{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-200000,"color":"#ffc675","flags":{}}
+{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-200000,"color":"#dc9e47","flags":{}}
