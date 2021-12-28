@@ -1,52 +1,25 @@
 {"name":"VARISIE","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"2s5XCkZNGberV17X"}
-{"_id":"8VguvWHJKa23oDWr","name":"GEOGRAPHIE VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#4b67aa","flags":{}}
+{"_id":"8VguvWHJKa23oDWr","name":"GEOGRAPHIE VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#5F5DA6","flags":{}}
 {"name":"ANDORAN","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"9eql0Nnq8uBEZWIo"}
 {"_id":"DfztXt2vKFiYsSuB","name":"Auberges et Tavernes","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"name":"Pointesable","type":"Scene","parent":"2s5XCkZNGberV17X","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EyBfse2q8lYOUttj"}
 {"_id":"G4t7KeLgm6k6pN2o","name":"Commerces","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":200000,"color":null,"flags":{}}
-{"_id":"GLAwlIhTPm0Jc6td","name":"POINTESABLE, POPULATION","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":0,"color":"#7e9cce","flags":{}}
-{"_id":"I3r5oNrdgoVP95NX","name":"NID-DU-FAUCON","type":"JournalEntry","parent":"Yx43Lfm3jbI5PjSC","sorting":"a","sort":0,"color":"#7e9cce","flags":{}}
+{"_id":"GLAwlIhTPm0Jc6td","name":"POINTESABLE, POPULATION","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":0,"color":"#7f7dba","flags":{}}
+{"_id":"I3r5oNrdgoVP95NX","name":"NID-DU-FAUCON","type":"JournalEntry","parent":"Yx43Lfm3jbI5PjSC","sorting":"a","sort":0,"color":"#7f7dba","flags":{}}
 {"_id":"IXK7SDd1AFRaWOju","name":"Fabriques","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":300000,"color":null,"flags":{}}
-{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-200000,"color":"#dc9e47","flags":{}}
-{"_id":"SpCGRYX090C4PR8W","name":"CAMPAGNE L'EVEIL DES SEIGNEURS DES RUNES","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#cf6cd0","flags":{}}
-{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE, GEOGRAPHIE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":"#7e9cce","flags":{}}
-{"_id":"Yx43Lfm3jbI5PjSC","name":"GEOGRAPHIE ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":-100000,"color":"#4b67aa","flags":{}}
-{"_id":"berNyiUPe5aAwWna","name":"01 LES OFFRANDES CALCINEES","type":"JournalEntry","parent":"SpCGRYX090C4PR8W","sorting":"a","sort":100000,"color":"","flags":{}}
+{"_id":"MwiADIQmVD09AbJd","name":"00 INTRODUCTIONS","type":"JournalEntry","parent":"SpCGRYX090C4PR8W","sorting":"a","sort":0,"color":"#a7a6ce","flags":{}}
+{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-600000,"color":"#262626","flags":{}}
+{"_id":"SpCGRYX090C4PR8W","name":"CAMPAGNE L'EVEIL DES SEIGNEURS DES RUNES","type":"JournalEntry","parent":null,"sorting":"a","sort":-350000,"color":"#8F8EBF","flags":{}}
+{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE, GEOGRAPHIE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":"#7f7dba","flags":{}}
+{"_id":"Yx43Lfm3jbI5PjSC","name":"GEOGRAPHIE ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":-100000,"color":"#5F5DA6","flags":{}}
+{"_id":"berNyiUPe5aAwWna","name":"01 LES OFFRANDES CALCINEES","type":"JournalEntry","parent":"SpCGRYX090C4PR8W","sorting":"a","sort":100000,"color":"#a7a6ce","flags":{}}
 {"_id":"hz7oEfWjUrMsYsdt","name":"Divers","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":"","flags":{}}
 {"name":"PNJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"s0GxnUG0CAfn14p4"}
 {"_id":"tcEVq0ipXLhaSKS2","name":"Alentours","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"CAMPAGNE L'EVEIL DES SEIGNEURS DES RUNES","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"uPMm5BZgD1gqtdAH"}
 {"_id":"vSP4aXZaedti0mWC","name":"Habitations","type":"JournalEntry","parent":"WjJe7QxMbpfDvJAh","sorting":"a","sort":400000,"color":null,"flags":{}}
-{"_id":"wQwKEqnyebx4TsRa","name":"BACKGROUND","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#377675","flags":{}}
-{"name":"A Feu et festival","type":"JournalEntry","parent":"berNyiUPe5aAwWna","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xBTDOkIO6F5xmMw6"}
-{"name":"Divinités","type":"JournalEntry","parent":"wQwKEqnyebx4TsRa","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xd1pyOvDfARsTScy"}
+{"_id":"wQwKEqnyebx4TsRa","name":"BACKGROUND","type":"JournalEntry","parent":null,"sorting":"a","sort":-500000,"color":"#2E4159","flags":{}}
+{"_id":"xBTDOkIO6F5xmMw6","name":"[ A ] Feu et festival","type":"JournalEntry","parent":"berNyiUPe5aAwWna","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"xd1pyOvDfARsTScy","name":"Divinités","type":"JournalEntry","parent":"wQwKEqnyebx4TsRa","sorting":"a","sort":0,"color":"#46576d","flags":{}}
 {"name":"Consortium du Bois","type":"JournalEntry","parent":"I3r5oNrdgoVP95NX","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zIWFDdqYt8orPzjo"}
 {"name":"PJ","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"zw71DLhRGtNCpl8C"}
-{"_id":"wQwKEqnyebx4TsRa","name":"BACKGROUND","type":"JournalEntry","parent":null,"sorting":"a","sort":-300000,"color":"#377675","flags":{}}
-{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-400000,"color":"#dc9e47","flags":{}}
-{"_id":"SpCGRYX090C4PR8W","name":"CAMPAGNE L'EVEIL DES SEIGNEURS DES RUNES","type":"JournalEntry","parent":null,"sorting":"a","sort":-350000,"color":"#cf6cd0","flags":{}}
-{"_id":"wQwKEqnyebx4TsRa","name":"BACKGROUND","type":"JournalEntry","parent":null,"sorting":"a","sort":-500000,"color":"#377675","flags":{}}
-{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-600000,"color":"#dc9e47","flags":{}}
-{"_id":"SpCGRYX090C4PR8W","name":"CAMPAGNE L'EVEIL DES SEIGNEURS DES RUNES","type":"JournalEntry","parent":null,"sorting":"a","sort":-350000,"color":"#8082cb","flags":{}}
-{"_id":"wQwKEqnyebx4TsRa","name":"BACKGROUND","type":"JournalEntry","parent":null,"sorting":"a","sort":-500000,"color":"#67a2a1","flags":{}}
-{"name":"00 INTRODUCTIONS","type":"JournalEntry","parent":"SpCGRYX090C4PR8W","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MwiADIQmVD09AbJd"}
-{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-600000,"color":"#262626","flags":{}}
-{"_id":"wQwKEqnyebx4TsRa","name":"BACKGROUND","type":"JournalEntry","parent":null,"sorting":"a","sort":-500000,"color":"#2E4159","flags":{}}
-{"_id":"SpCGRYX090C4PR8W","name":"CAMPAGNE L'EVEIL DES SEIGNEURS DES RUNES","type":"JournalEntry","parent":null,"sorting":"a","sort":-350000,"color":"#8F8EBF","flags":{}}
-{"_id":"Yx43Lfm3jbI5PjSC","name":"GEOGRAPHIE ANDORAN","type":"JournalEntry","parent":null,"sorting":"a","sort":-100000,"color":"#5F5DA6","flags":{}}
-{"_id":"8VguvWHJKa23oDWr","name":"GEOGRAPHIE VARISIE","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#5F5DA6","flags":{}}
-{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-600000,"color":"#4F4D8C","flags":{}}
-{"_id":"QMXB7niqu0UY27se","name":"_TECHNIQUE","type":"JournalEntry","parent":null,"sorting":"a","sort":-600000,"color":"#262626","flags":{}}
-{"_id":"MwiADIQmVD09AbJd","name":"00 INTRODUCTIONS","type":"JournalEntry","parent":"SpCGRYX090C4PR8W","sorting":"a","sort":0,"color":"#8F8EBF","flags":{}}
-{"_id":"MwiADIQmVD09AbJd","name":"00 INTRODUCTIONS","type":"JournalEntry","parent":"SpCGRYX090C4PR8W","sorting":"a","sort":0,"color":"#a7a6ce","flags":{}}
-{"_id":"berNyiUPe5aAwWna","name":"01 LES OFFRANDES CALCINEES","type":"JournalEntry","parent":"SpCGRYX090C4PR8W","sorting":"a","sort":100000,"color":"#a7a6ce","flags":{}}
-{"_id":"I3r5oNrdgoVP95NX","name":"NID-DU-FAUCON","type":"JournalEntry","parent":"Yx43Lfm3jbI5PjSC","sorting":"a","sort":0,"color":"#5F5DA6","flags":{}}
-{"_id":"I3r5oNrdgoVP95NX","name":"NID-DU-FAUCON","type":"JournalEntry","parent":"Yx43Lfm3jbI5PjSC","sorting":"a","sort":0,"color":"#7f7dba","flags":{}}
-{"_id":"WjJe7QxMbpfDvJAh","name":"POINTESABLE, GEOGRAPHIE","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":100000,"color":"#7f7dba","flags":{}}
-{"_id":"GLAwlIhTPm0Jc6td","name":"POINTESABLE, POPULATION","type":"JournalEntry","parent":"8VguvWHJKa23oDWr","sorting":"a","sort":0,"color":"#7f7dba","flags":{}}
-{"_id":"xd1pyOvDfARsTScy","name":"Divinités","type":"JournalEntry","parent":"wQwKEqnyebx4TsRa","sorting":"a","sort":0,"color":"#2E4159","flags":{}}
-{"_id":"xd1pyOvDfARsTScy","name":"Divinités","type":"JournalEntry","parent":"wQwKEqnyebx4TsRa","sorting":"a","sort":0,"color":"#46576d","flags":{}}
-{"name":"CAMPAGNE L'EVEIL DES SEIGNEURS DES RUNES","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"uPMm5BZgD1gqtdAH"}
-{"_id":"xBTDOkIO6F5xmMw6","name":"A) Feu et festival","type":"JournalEntry","parent":"berNyiUPe5aAwWna","sorting":"a","sort":0,"color":"","flags":{}}
-{"_id":"xBTDOkIO6F5xmMw6","name":"A ) Feu et festival","type":"JournalEntry","parent":"berNyiUPe5aAwWna","sorting":"a","sort":0,"color":null,"flags":{}}
-{"_id":"xBTDOkIO6F5xmMw6","name":"[A] Feu et festival","type":"JournalEntry","parent":"berNyiUPe5aAwWna","sorting":"a","sort":0,"color":null,"flags":{}}
-{"_id":"xBTDOkIO6F5xmMw6","name":"[ A ] Feu et festival","type":"JournalEntry","parent":"berNyiUPe5aAwWna","sorting":"a","sort":0,"color":null,"flags":{}}
